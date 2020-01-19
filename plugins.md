@@ -1,0 +1,17 @@
+# Intellij IDEA
+
+1. [Codota](https://plugins.jetbrains.com/plugin/7638-codota/)
+1. [StepBuilder Generator](https://plugins.jetbrains.com/plugin/8276-stepbuilder-generator/)
+1. [Builder Generator](https://plugins.jetbrains.com/plugin/6585-builder-generator/)
+1. [GenerateCopyConstructor](https://plugins.jetbrains.com/plugin/7225-generatecopyconstructor/)
+1. [Lines Sorter](https://plugins.jetbrains.com/plugin/5919-lines-sorter/)
+1. [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation/)
+1. [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore/)
+1. [GenerateAllSetters](https://plugins.jetbrains.com/plugin/9360-generateallsetter/)
+1. [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog/)
+1. [Lombok](https://plugins.jetbrains.com/plugin/6317-lombok/)
+1. [MapStruct Support](https://plugins.jetbrains.com/plugin/10036-mapstruct-support/)
+1. [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint/)
+1. [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets/)
+1. [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
+1. [Maven Helper](https://plugins.jetbrains.com/plugin/7179-maven-helper)
